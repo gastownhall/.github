@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gastownhall.ai/images/mayor-hub-logo.webp" width="150" alt="Gas Town Hall Mayor's Hub Logo" />
+<img src="https://gastownhall.ai/images/mayor-of-gastown-360.png" width="150" alt="Gas Town Hall Mayor's Hub Logo" />
 
 # ⚙️ — Gas Town Hall — ⚙️
 
