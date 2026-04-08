@@ -32,9 +32,9 @@
 > Gas Town is an orchestration layer for AI coding agents. It lets you:
 >
 > - 🤖 **Orchestrate AI agents** — Works with Claude Code, Codex, Gemini, and more
-> - - 🌐 **Scale without limits** — Link thousands of Gas Towns together in the Wasteland trust network
->   - - 📊 **Track accountability** — Measure quality and output across all your AI coding workflows
->     - - ⚡ **Build fast** — Deploy changes and contributions at unprecedented speed
+> - 🌐 **Scale without limits** — Link thousands of Gas Towns together in the Wasteland trust network
+> - 📊 **Track accountability** — Measure quality and output across all your AI coding workflows
+> - ⚡ **Build fast** — Deploy changes and contributions at unprecedented speed
 >      
 >       - ---
 >
