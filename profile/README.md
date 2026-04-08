@@ -36,7 +36,7 @@
 > - 📊 **Track accountability** — Measure quality and output across all your AI coding workflows
 > - ⚡ **Build fast** — Deploy changes and contributions at unprecedented speed
 >      
->       - ---
+> ---
 >
 > ## 🗞️ Town Crier — Latest News
 >
